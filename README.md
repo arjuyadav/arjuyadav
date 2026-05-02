@@ -1,3 +1,4 @@
+Hello! I am Arju Yadav, a passionate Full-Stack Web Developer dedicated to building robust, scalable, and user-centric digital solutions. My journey into the world of programming was significantly shaped by learning from Code With Harry, which helped me build a strong foundation in modern web technologies and logical problem-solving.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/student.Yadav.arju) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/student.yadav.suraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arju-yadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arjuyadav2007)
